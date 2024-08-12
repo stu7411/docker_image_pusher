@@ -1,3 +1,4 @@
 
 jxxghp/moviepilot:latest
 allanpk716/chinesesubfinder
+idootop/mi-gpt:latest
