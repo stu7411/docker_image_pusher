@@ -2,3 +2,4 @@
 jxxghp/moviepilot:latest
 allanpk716/chinesesubfinder
 idootop/mi-gpt:latest
+lmk123/migpt-server
