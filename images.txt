@@ -5,3 +5,4 @@ idootop/mi-gpt:latest
 lmk123/migpt-server
 idootop/mi-gpt-tts:latest
 hanxi/xiaomusic:latest
+fooololo/aipan-netdisk-search
