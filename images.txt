@@ -6,4 +6,5 @@ lmk123/migpt-server
 idootop/mi-gpt-tts:latest
 hanxi/xiaomusic:latest
 advplyr/audiobookshelf
-unilei/aipan-netdisk-search
+fooololo/aipan-netdisk-search
+
