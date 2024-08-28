@@ -8,3 +8,4 @@ hanxi/xiaomusic:latest
 advplyr/audiobookshelf
 fooololo/aipan-netdisk-search
 cloudnas/clouddrive2
+lbudtmo/docker-android：emulator_14.0
