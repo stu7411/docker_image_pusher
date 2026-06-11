@@ -1,1 +1,2 @@
 xgheaven/homebox:latest
+hslr/sun-panel:latest
